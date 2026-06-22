@@ -1,0 +1,12 @@
+# Requirements for: Fraud Detection with PyOD AutoEncoder
+# Hands-On Assignment 4 - MSCS-633-A01
+
+pyod>=2.0.0
+torch>=2.0.0
+numpy==1.26.4
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+numba<0.61
+llvmlite<0.44
+tqdm>=4.66.0
